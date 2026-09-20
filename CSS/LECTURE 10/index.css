@@ -1,0 +1,15 @@
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#om{
+    font-size: 10px;
+}
+#Ram{
+    font-size: 10px;
+    font-weight: bolder;
+}
+#San{
+    font-style:italic;
+    font-variant: small-caps;
+}
